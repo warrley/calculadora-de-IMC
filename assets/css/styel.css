@@ -203,6 +203,7 @@ bottom: 0;
 
    form {
     width: 80vw;
+    overflow-x: hidden;
    }
 
    #calculator {
